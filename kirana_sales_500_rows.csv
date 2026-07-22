@@ -1,0 +1,501 @@
+Product,Category,Quantity,Price,Date,Total
+Coffee,Beverage,7,150,2026-04-02,1050
+Tea,Beverage,4,20,2026-03-21,80
+Biscuits,Snacks,7,25,2026-06-13,175
+Sugar,Grocery,10,40,2026-06-12,400
+Milk,Dairy,7,30,2026-04-01,210
+Milk,Dairy,4,30,2026-03-04,120
+Salt,Grocery,2,25,2026-04-24,50
+Biscuits,Snacks,10,25,2026-05-08,250
+Shampoo,Personal Care,1,180,2026-05-15,180
+Soap,Personal Care,6,35,2026-02-26,210
+Salt,Grocery,3,25,2026-05-27,75
+Salt,Grocery,3,25,2026-05-15,75
+Salt,Grocery,3,25,2026-01-22,75
+Shampoo,Personal Care,10,180,2026-05-30,1800
+Biscuits,Snacks,6,25,2026-01-08,150
+Milk,Dairy,2,30,2026-02-01,60
+Tea,Beverage,2,20,2026-05-04,40
+Soap,Personal Care,9,35,2026-03-12,315
+Salt,Grocery,5,25,2026-05-14,125
+Tea,Beverage,1,20,2026-03-03,20
+Biscuits,Snacks,1,25,2026-05-13,25
+Oil,Grocery,7,120,2026-01-07,840
+Tea,Beverage,8,20,2026-01-28,160
+Salt,Grocery,4,25,2026-06-16,100
+Soap,Personal Care,5,35,2026-02-24,175
+Soap,Personal Care,6,35,2026-05-07,210
+Oil,Grocery,6,120,2026-04-18,720
+Rice,Grocery,1,50,2026-01-30,50
+Rice,Grocery,8,50,2026-04-29,400
+Tea,Beverage,3,20,2026-02-10,60
+Coffee,Beverage,2,150,2026-04-04,300
+Shampoo,Personal Care,9,180,2026-04-25,1620
+Milk,Dairy,8,30,2026-05-27,240
+Salt,Grocery,5,25,2026-04-19,125
+Tea,Beverage,8,20,2026-01-19,160
+Sugar,Grocery,5,40,2026-06-14,200
+Biscuits,Snacks,5,25,2026-04-13,125
+Sugar,Grocery,5,40,2026-03-04,200
+Rice,Grocery,4,50,2026-05-09,200
+Soap,Personal Care,5,35,2026-01-17,175
+Biscuits,Snacks,9,25,2026-02-26,225
+Salt,Grocery,6,25,2026-04-01,150
+Oil,Grocery,3,120,2026-06-14,360
+Oil,Grocery,4,120,2026-03-11,480
+Sugar,Grocery,5,40,2026-06-02,200
+Oil,Grocery,6,120,2026-04-06,720
+Oil,Grocery,2,120,2026-06-09,240
+Salt,Grocery,8,25,2026-02-08,200
+Coffee,Beverage,2,150,2026-06-13,300
+Shampoo,Personal Care,10,180,2026-03-19,1800
+Soap,Personal Care,2,35,2026-05-25,70
+Oil,Grocery,7,120,2026-05-08,840
+Sugar,Grocery,4,40,2026-06-27,160
+Coffee,Beverage,1,150,2026-02-23,150
+Rice,Grocery,4,50,2026-03-11,200
+Oil,Grocery,2,120,2026-01-01,240
+Biscuits,Snacks,4,25,2026-05-23,100
+Biscuits,Snacks,2,25,2026-05-02,50
+Rice,Grocery,7,50,2026-06-06,350
+Oil,Grocery,6,120,2026-02-05,720
+Milk,Dairy,10,30,2026-04-04,300
+Biscuits,Snacks,8,25,2026-01-01,200
+Milk,Dairy,10,30,2026-05-28,300
+Oil,Grocery,9,120,2026-06-21,1080
+Milk,Dairy,3,30,2026-05-09,90
+Coffee,Beverage,8,150,2026-04-16,1200
+Salt,Grocery,7,25,2026-01-22,175
+Rice,Grocery,1,50,2026-04-07,50
+Oil,Grocery,10,120,2026-03-16,1200
+Biscuits,Snacks,2,25,2026-02-02,50
+Sugar,Grocery,4,40,2026-02-07,160
+Shampoo,Personal Care,7,180,2026-01-23,1260
+Salt,Grocery,5,25,2026-02-21,125
+Coffee,Beverage,7,150,2026-03-09,1050
+Shampoo,Personal Care,9,180,2026-03-24,1620
+Oil,Grocery,9,120,2026-06-05,1080
+Salt,Grocery,10,25,2026-04-15,250
+Oil,Grocery,4,120,2026-04-21,480
+Coffee,Beverage,10,150,2026-03-27,1500
+Salt,Grocery,5,25,2026-03-03,125
+Shampoo,Personal Care,10,180,2026-04-12,1800
+Milk,Dairy,4,30,2026-03-16,120
+Salt,Grocery,2,25,2026-03-10,50
+Oil,Grocery,2,120,2026-01-31,240
+Tea,Beverage,6,20,2026-02-20,120
+Coffee,Beverage,2,150,2026-05-12,300
+Rice,Grocery,8,50,2026-05-10,400
+Milk,Dairy,6,30,2026-02-15,180
+Tea,Beverage,2,20,2026-05-03,40
+Tea,Beverage,7,20,2026-04-26,140
+Biscuits,Snacks,9,25,2026-03-21,225
+Milk,Dairy,2,30,2026-04-13,60
+Sugar,Grocery,1,40,2026-02-12,40
+Shampoo,Personal Care,6,180,2026-01-14,1080
+Biscuits,Snacks,2,25,2026-03-25,50
+Sugar,Grocery,5,40,2026-05-01,200
+Soap,Personal Care,7,35,2026-05-06,245
+Soap,Personal Care,6,35,2026-02-11,210
+Shampoo,Personal Care,8,180,2026-06-24,1440
+Salt,Grocery,9,25,2026-02-10,225
+Shampoo,Personal Care,1,180,2026-06-10,180
+Shampoo,Personal Care,9,180,2026-03-04,1620
+Shampoo,Personal Care,7,180,2026-06-17,1260
+Salt,Grocery,1,25,2026-02-14,25
+Soap,Personal Care,5,35,2026-05-16,175
+Rice,Grocery,3,50,2026-02-06,150
+Salt,Grocery,8,25,2026-06-23,200
+Shampoo,Personal Care,2,180,2026-01-08,360
+Milk,Dairy,6,30,2026-05-16,180
+Tea,Beverage,5,20,2026-03-06,100
+Tea,Beverage,5,20,2026-04-09,100
+Rice,Grocery,9,50,2026-01-31,450
+Biscuits,Snacks,9,25,2026-06-26,225
+Coffee,Beverage,6,150,2026-05-22,900
+Tea,Beverage,9,20,2026-04-07,180
+Shampoo,Personal Care,4,180,2026-06-23,720
+Coffee,Beverage,10,150,2026-03-30,1500
+Shampoo,Personal Care,10,180,2026-04-05,1800
+Soap,Personal Care,2,35,2026-03-04,70
+Oil,Grocery,1,120,2026-03-11,120
+Biscuits,Snacks,10,25,2026-03-02,250
+Shampoo,Personal Care,1,180,2026-02-28,180
+Sugar,Grocery,10,40,2026-03-05,400
+Sugar,Grocery,3,40,2026-05-25,120
+Rice,Grocery,7,50,2026-06-19,350
+Shampoo,Personal Care,3,180,2026-06-15,540
+Salt,Grocery,8,25,2026-05-19,200
+Sugar,Grocery,5,40,2026-04-21,200
+Tea,Beverage,2,20,2026-05-27,40
+Sugar,Grocery,7,40,2026-02-06,280
+Oil,Grocery,2,120,2026-02-17,240
+Coffee,Beverage,8,150,2026-05-26,1200
+Salt,Grocery,4,25,2026-05-08,100
+Sugar,Grocery,4,40,2026-02-05,160
+Rice,Grocery,2,50,2026-05-04,100
+Biscuits,Snacks,9,25,2026-05-22,225
+Coffee,Beverage,9,150,2026-05-02,1350
+Soap,Personal Care,6,35,2026-06-11,210
+Soap,Personal Care,7,35,2026-02-09,245
+Milk,Dairy,4,30,2026-03-15,120
+Soap,Personal Care,5,35,2026-04-11,175
+Tea,Beverage,3,20,2026-06-10,60
+Sugar,Grocery,4,40,2026-03-26,160
+Biscuits,Snacks,7,25,2026-06-17,175
+Oil,Grocery,10,120,2026-01-17,1200
+Milk,Dairy,7,30,2026-05-10,210
+Milk,Dairy,6,30,2026-04-13,180
+Milk,Dairy,9,30,2026-01-06,270
+Rice,Grocery,9,50,2026-01-15,450
+Rice,Grocery,10,50,2026-05-28,500
+Tea,Beverage,4,20,2026-01-24,80
+Coffee,Beverage,4,150,2026-01-26,600
+Tea,Beverage,6,20,2026-04-24,120
+Milk,Dairy,1,30,2026-02-14,30
+Coffee,Beverage,10,150,2026-04-05,1500
+Oil,Grocery,8,120,2026-06-23,960
+Sugar,Grocery,4,40,2026-06-16,160
+Sugar,Grocery,6,40,2026-05-28,240
+Rice,Grocery,7,50,2026-04-22,350
+Coffee,Beverage,2,150,2026-03-18,300
+Sugar,Grocery,7,40,2026-06-13,280
+Tea,Beverage,2,20,2026-01-19,40
+Oil,Grocery,6,120,2026-02-08,720
+Tea,Beverage,1,20,2026-03-05,20
+Oil,Grocery,7,120,2026-02-22,840
+Coffee,Beverage,2,150,2026-03-20,300
+Tea,Beverage,3,20,2026-01-20,60
+Rice,Grocery,3,50,2026-02-12,150
+Soap,Personal Care,5,35,2026-02-08,175
+Sugar,Grocery,6,40,2026-05-23,240
+Milk,Dairy,7,30,2026-03-01,210
+Coffee,Beverage,5,150,2026-02-18,750
+Soap,Personal Care,3,35,2026-05-21,105
+Rice,Grocery,9,50,2026-02-10,450
+Shampoo,Personal Care,8,180,2026-04-30,1440
+Milk,Dairy,3,30,2026-03-02,90
+Shampoo,Personal Care,7,180,2026-05-03,1260
+Biscuits,Snacks,6,25,2026-02-24,150
+Oil,Grocery,7,120,2026-01-29,840
+Biscuits,Snacks,8,25,2026-01-30,200
+Milk,Dairy,9,30,2026-01-16,270
+Coffee,Beverage,5,150,2026-01-09,750
+Salt,Grocery,3,25,2026-02-03,75
+Oil,Grocery,3,120,2026-04-08,360
+Shampoo,Personal Care,1,180,2026-03-08,180
+Rice,Grocery,2,50,2026-04-11,100
+Sugar,Grocery,4,40,2026-06-12,160
+Soap,Personal Care,3,35,2026-05-19,105
+Coffee,Beverage,1,150,2026-05-23,150
+Shampoo,Personal Care,1,180,2026-05-24,180
+Sugar,Grocery,7,40,2026-05-10,280
+Shampoo,Personal Care,4,180,2026-01-26,720
+Biscuits,Snacks,3,25,2026-04-21,75
+Sugar,Grocery,8,40,2026-01-23,320
+Rice,Grocery,5,50,2026-05-04,250
+Biscuits,Snacks,1,25,2026-01-08,25
+Milk,Dairy,7,30,2026-01-13,210
+Sugar,Grocery,5,40,2026-04-27,200
+Salt,Grocery,10,25,2026-04-17,250
+Sugar,Grocery,5,40,2026-05-28,200
+Oil,Grocery,5,120,2026-06-24,600
+Shampoo,Personal Care,9,180,2026-01-03,1620
+Salt,Grocery,7,25,2026-01-01,175
+Rice,Grocery,2,50,2026-02-02,100
+Shampoo,Personal Care,5,180,2026-01-10,900
+Shampoo,Personal Care,6,180,2026-01-07,1080
+Coffee,Beverage,4,150,2026-06-09,600
+Milk,Dairy,6,30,2026-01-16,180
+Milk,Dairy,4,30,2026-02-01,120
+Sugar,Grocery,4,40,2026-03-15,160
+Shampoo,Personal Care,7,180,2026-02-16,1260
+Tea,Beverage,4,20,2026-02-16,80
+Rice,Grocery,10,50,2026-03-25,500
+Salt,Grocery,2,25,2026-03-25,50
+Sugar,Grocery,9,40,2026-01-16,360
+Biscuits,Snacks,5,25,2026-03-04,125
+Tea,Beverage,6,20,2026-02-19,120
+Coffee,Beverage,8,150,2026-06-17,1200
+Shampoo,Personal Care,2,180,2026-06-24,360
+Salt,Grocery,3,25,2026-01-16,75
+Oil,Grocery,8,120,2026-02-05,960
+Coffee,Beverage,4,150,2026-04-25,600
+Milk,Dairy,1,30,2026-02-11,30
+Tea,Beverage,10,20,2026-03-18,200
+Rice,Grocery,6,50,2026-02-28,300
+Coffee,Beverage,2,150,2026-01-12,300
+Coffee,Beverage,4,150,2026-05-28,600
+Oil,Grocery,9,120,2026-05-29,1080
+Shampoo,Personal Care,7,180,2026-04-23,1260
+Soap,Personal Care,7,35,2026-03-30,245
+Salt,Grocery,4,25,2026-04-06,100
+Soap,Personal Care,10,35,2026-06-02,350
+Sugar,Grocery,5,40,2026-03-24,200
+Coffee,Beverage,1,150,2026-06-20,150
+Shampoo,Personal Care,1,180,2026-06-22,180
+Biscuits,Snacks,2,25,2026-06-12,50
+Tea,Beverage,7,20,2026-05-01,140
+Milk,Dairy,6,30,2026-06-22,180
+Biscuits,Snacks,1,25,2026-04-24,25
+Oil,Grocery,7,120,2026-05-11,840
+Biscuits,Snacks,4,25,2026-03-23,100
+Shampoo,Personal Care,6,180,2026-05-02,1080
+Oil,Grocery,9,120,2026-02-24,1080
+Tea,Beverage,1,20,2026-04-02,20
+Shampoo,Personal Care,4,180,2026-05-02,720
+Shampoo,Personal Care,6,180,2026-04-25,1080
+Oil,Grocery,4,120,2026-04-08,480
+Sugar,Grocery,5,40,2026-05-02,200
+Rice,Grocery,1,50,2026-05-06,50
+Sugar,Grocery,9,40,2026-01-15,360
+Rice,Grocery,8,50,2026-02-12,400
+Coffee,Beverage,9,150,2026-04-22,1350
+Tea,Beverage,2,20,2026-06-19,40
+Biscuits,Snacks,8,25,2026-03-05,200
+Soap,Personal Care,6,35,2026-01-03,210
+Sugar,Grocery,7,40,2026-03-29,280
+Sugar,Grocery,10,40,2026-06-01,400
+Oil,Grocery,4,120,2026-04-24,480
+Milk,Dairy,1,30,2026-04-18,30
+Sugar,Grocery,4,40,2026-03-26,160
+Biscuits,Snacks,7,25,2026-04-01,175
+Biscuits,Snacks,3,25,2026-01-26,75
+Milk,Dairy,6,30,2026-06-22,180
+Milk,Dairy,3,30,2026-02-01,90
+Salt,Grocery,6,25,2026-06-20,150
+Rice,Grocery,7,50,2026-01-27,350
+Oil,Grocery,5,120,2026-04-16,600
+Coffee,Beverage,8,150,2026-06-02,1200
+Salt,Grocery,3,25,2026-04-10,75
+Tea,Beverage,7,20,2026-01-13,140
+Tea,Beverage,10,20,2026-03-15,200
+Shampoo,Personal Care,2,180,2026-02-14,360
+Oil,Grocery,7,120,2026-04-09,840
+Oil,Grocery,2,120,2026-04-25,240
+Soap,Personal Care,7,35,2026-01-04,245
+Coffee,Beverage,5,150,2026-06-16,750
+Coffee,Beverage,7,150,2026-06-30,1050
+Sugar,Grocery,5,40,2026-03-07,200
+Soap,Personal Care,2,35,2026-06-23,70
+Coffee,Beverage,9,150,2026-06-15,1350
+Salt,Grocery,8,25,2026-02-04,200
+Soap,Personal Care,5,35,2026-02-06,175
+Soap,Personal Care,1,35,2026-03-13,35
+Soap,Personal Care,3,35,2026-03-22,105
+Biscuits,Snacks,3,25,2026-05-01,75
+Oil,Grocery,7,120,2026-02-20,840
+Coffee,Beverage,4,150,2026-05-03,600
+Salt,Grocery,6,25,2026-05-13,150
+Soap,Personal Care,9,35,2026-06-28,315
+Salt,Grocery,4,25,2026-05-31,100
+Coffee,Beverage,6,150,2026-03-25,900
+Oil,Grocery,1,120,2026-06-10,120
+Milk,Dairy,1,30,2026-06-03,30
+Milk,Dairy,6,30,2026-03-10,180
+Biscuits,Snacks,4,25,2026-03-19,100
+Tea,Beverage,7,20,2026-03-29,140
+Coffee,Beverage,5,150,2026-05-28,750
+Biscuits,Snacks,8,25,2026-04-07,200
+Coffee,Beverage,7,150,2026-05-11,1050
+Shampoo,Personal Care,4,180,2026-06-28,720
+Salt,Grocery,7,25,2026-02-19,175
+Coffee,Beverage,2,150,2026-05-18,300
+Coffee,Beverage,7,150,2026-03-08,1050
+Tea,Beverage,6,20,2026-03-14,120
+Coffee,Beverage,6,150,2026-03-18,900
+Rice,Grocery,2,50,2026-05-18,100
+Soap,Personal Care,8,35,2026-06-05,280
+Biscuits,Snacks,3,25,2026-04-02,75
+Sugar,Grocery,6,40,2026-03-02,240
+Biscuits,Snacks,7,25,2026-03-25,175
+Salt,Grocery,9,25,2026-06-19,225
+Salt,Grocery,10,25,2026-03-27,250
+Coffee,Beverage,2,150,2026-06-21,300
+Milk,Dairy,6,30,2026-02-25,180
+Oil,Grocery,7,120,2026-05-30,840
+Milk,Dairy,5,30,2026-01-17,150
+Coffee,Beverage,5,150,2026-01-04,750
+Tea,Beverage,9,20,2026-03-23,180
+Rice,Grocery,4,50,2026-03-28,200
+Shampoo,Personal Care,2,180,2026-03-09,360
+Salt,Grocery,7,25,2026-05-22,175
+Salt,Grocery,8,25,2026-03-09,200
+Shampoo,Personal Care,5,180,2026-03-11,900
+Coffee,Beverage,6,150,2026-04-19,900
+Shampoo,Personal Care,4,180,2026-03-07,720
+Soap,Personal Care,2,35,2026-06-11,70
+Soap,Personal Care,7,35,2026-06-24,245
+Sugar,Grocery,8,40,2026-06-23,320
+Salt,Grocery,1,25,2026-04-18,25
+Oil,Grocery,10,120,2026-04-27,1200
+Milk,Dairy,3,30,2026-02-28,90
+Biscuits,Snacks,3,25,2026-02-28,75
+Salt,Grocery,1,25,2026-03-22,25
+Rice,Grocery,6,50,2026-02-07,300
+Biscuits,Snacks,8,25,2026-01-13,200
+Milk,Dairy,2,30,2026-06-09,60
+Coffee,Beverage,2,150,2026-03-22,300
+Salt,Grocery,10,25,2026-02-05,250
+Shampoo,Personal Care,7,180,2026-02-26,1260
+Soap,Personal Care,2,35,2026-03-22,70
+Shampoo,Personal Care,1,180,2026-05-27,180
+Salt,Grocery,10,25,2026-03-16,250
+Salt,Grocery,8,25,2026-03-29,200
+Shampoo,Personal Care,4,180,2026-03-11,720
+Soap,Personal Care,10,35,2026-01-02,350
+Soap,Personal Care,5,35,2026-04-05,175
+Rice,Grocery,5,50,2026-06-15,250
+Coffee,Beverage,2,150,2026-02-08,300
+Salt,Grocery,1,25,2026-03-02,25
+Sugar,Grocery,3,40,2026-06-07,120
+Coffee,Beverage,3,150,2026-04-16,450
+Biscuits,Snacks,7,25,2026-06-13,175
+Salt,Grocery,2,25,2026-06-05,50
+Soap,Personal Care,10,35,2026-02-22,350
+Sugar,Grocery,6,40,2026-01-26,240
+Milk,Dairy,2,30,2026-03-12,60
+Soap,Personal Care,1,35,2026-06-03,35
+Rice,Grocery,6,50,2026-04-01,300
+Biscuits,Snacks,2,25,2026-03-11,50
+Shampoo,Personal Care,10,180,2026-04-18,1800
+Rice,Grocery,2,50,2026-04-13,100
+Milk,Dairy,3,30,2026-03-10,90
+Soap,Personal Care,6,35,2026-03-02,210
+Milk,Dairy,6,30,2026-06-23,180
+Milk,Dairy,8,30,2026-06-04,240
+Biscuits,Snacks,6,25,2026-06-04,150
+Soap,Personal Care,1,35,2026-03-28,35
+Biscuits,Snacks,1,25,2026-01-15,25
+Rice,Grocery,7,50,2026-02-02,350
+Salt,Grocery,6,25,2026-06-12,150
+Biscuits,Snacks,3,25,2026-05-09,75
+Soap,Personal Care,4,35,2026-05-14,140
+Coffee,Beverage,1,150,2026-05-23,150
+Salt,Grocery,3,25,2026-01-06,75
+Rice,Grocery,6,50,2026-01-31,300
+Tea,Beverage,7,20,2026-01-02,140
+Shampoo,Personal Care,2,180,2026-01-06,360
+Soap,Personal Care,2,35,2026-04-07,70
+Oil,Grocery,10,120,2026-01-07,1200
+Coffee,Beverage,2,150,2026-04-29,300
+Soap,Personal Care,10,35,2026-02-27,350
+Salt,Grocery,5,25,2026-04-16,125
+Sugar,Grocery,4,40,2026-01-02,160
+Salt,Grocery,8,25,2026-04-24,200
+Salt,Grocery,6,25,2026-03-15,150
+Soap,Personal Care,5,35,2026-01-11,175
+Coffee,Beverage,4,150,2026-01-02,600
+Shampoo,Personal Care,2,180,2026-02-12,360
+Sugar,Grocery,2,40,2026-05-01,80
+Milk,Dairy,4,30,2026-06-29,120
+Soap,Personal Care,8,35,2026-05-25,280
+Coffee,Beverage,5,150,2026-05-18,750
+Biscuits,Snacks,1,25,2026-04-27,25
+Tea,Beverage,6,20,2026-02-28,120
+Soap,Personal Care,5,35,2026-01-13,175
+Rice,Grocery,4,50,2026-06-26,200
+Milk,Dairy,4,30,2026-06-20,120
+Sugar,Grocery,7,40,2026-04-24,280
+Soap,Personal Care,6,35,2026-02-02,210
+Milk,Dairy,9,30,2026-04-07,270
+Salt,Grocery,4,25,2026-06-20,100
+Soap,Personal Care,9,35,2026-03-07,315
+Milk,Dairy,2,30,2026-04-12,60
+Sugar,Grocery,2,40,2026-01-08,80
+Tea,Beverage,3,20,2026-04-06,60
+Shampoo,Personal Care,5,180,2026-05-25,900
+Oil,Grocery,6,120,2026-04-06,720
+Biscuits,Snacks,10,25,2026-05-21,250
+Biscuits,Snacks,6,25,2026-02-03,150
+Shampoo,Personal Care,8,180,2026-02-20,1440
+Rice,Grocery,8,50,2026-01-08,400
+Salt,Grocery,1,25,2026-01-27,25
+Milk,Dairy,7,30,2026-02-06,210
+Rice,Grocery,2,50,2026-05-03,100
+Biscuits,Snacks,2,25,2026-02-01,50
+Salt,Grocery,2,25,2026-06-07,50
+Salt,Grocery,2,25,2026-04-06,50
+Coffee,Beverage,9,150,2026-06-19,1350
+Milk,Dairy,8,30,2026-04-02,240
+Rice,Grocery,10,50,2026-01-27,500
+Oil,Grocery,8,120,2026-06-23,960
+Soap,Personal Care,5,35,2026-06-03,175
+Sugar,Grocery,2,40,2026-03-15,80
+Shampoo,Personal Care,2,180,2026-03-16,360
+Soap,Personal Care,1,35,2026-06-22,35
+Soap,Personal Care,10,35,2026-04-03,350
+Coffee,Beverage,4,150,2026-02-25,600
+Tea,Beverage,5,20,2026-05-26,100
+Sugar,Grocery,10,40,2026-06-22,400
+Coffee,Beverage,10,150,2026-06-28,1500
+Milk,Dairy,10,30,2026-06-13,300
+Rice,Grocery,8,50,2026-02-15,400
+Shampoo,Personal Care,9,180,2026-03-27,1620
+Oil,Grocery,7,120,2026-06-22,840
+Coffee,Beverage,2,150,2026-05-08,300
+Salt,Grocery,3,25,2026-02-22,75
+Milk,Dairy,3,30,2026-05-19,90
+Salt,Grocery,3,25,2026-04-19,75
+Tea,Beverage,5,20,2026-05-27,100
+Salt,Grocery,6,25,2026-02-27,150
+Rice,Grocery,1,50,2026-01-21,50
+Coffee,Beverage,6,150,2026-01-07,900
+Salt,Grocery,10,25,2026-03-18,250
+Tea,Beverage,7,20,2026-06-03,140
+Coffee,Beverage,2,150,2026-01-12,300
+Tea,Beverage,9,20,2026-04-27,180
+Milk,Dairy,9,30,2026-03-12,270
+Milk,Dairy,8,30,2026-02-03,240
+Soap,Personal Care,5,35,2026-04-27,175
+Rice,Grocery,1,50,2026-03-26,50
+Soap,Personal Care,9,35,2026-02-28,315
+Milk,Dairy,2,30,2026-05-11,60
+Tea,Beverage,9,20,2026-04-15,180
+Sugar,Grocery,9,40,2026-02-26,360
+Shampoo,Personal Care,8,180,2026-03-25,1440
+Rice,Grocery,3,50,2026-03-19,150
+Coffee,Beverage,3,150,2026-02-14,450
+Biscuits,Snacks,5,25,2026-02-11,125
+Rice,Grocery,5,50,2026-03-14,250
+Soap,Personal Care,3,35,2026-06-11,105
+Salt,Grocery,7,25,2026-06-14,175
+Salt,Grocery,1,25,2026-06-04,25
+Biscuits,Snacks,8,25,2026-04-25,200
+Coffee,Beverage,10,150,2026-06-02,1500
+Sugar,Grocery,8,40,2026-06-04,320
+Tea,Beverage,9,20,2026-01-10,180
+Rice,Grocery,4,50,2026-05-31,200
+Coffee,Beverage,8,150,2026-01-11,1200
+Soap,Personal Care,1,35,2026-06-24,35
+Salt,Grocery,9,25,2026-03-03,225
+Soap,Personal Care,1,35,2026-01-14,35
+Milk,Dairy,7,30,2026-04-14,210
+Sugar,Grocery,8,40,2026-01-31,320
+Biscuits,Snacks,10,25,2026-02-15,250
+Biscuits,Snacks,2,25,2026-01-07,50
+Sugar,Grocery,4,40,2026-02-17,160
+Biscuits,Snacks,1,25,2026-06-03,25
+Shampoo,Personal Care,9,180,2026-04-03,1620
+Tea,Beverage,4,20,2026-03-30,80
+Coffee,Beverage,8,150,2026-02-19,1200
+Biscuits,Snacks,8,25,2026-06-09,200
+Coffee,Beverage,2,150,2026-06-30,300
+Coffee,Beverage,7,150,2026-06-14,1050
+Sugar,Grocery,3,40,2026-04-04,120
+Oil,Grocery,4,120,2026-01-01,480
+Soap,Personal Care,2,35,2026-05-19,70
+Milk,Dairy,2,30,2026-05-28,60
+Biscuits,Snacks,1,25,2026-02-08,25
+Soap,Personal Care,10,35,2026-04-01,350
+Biscuits,Snacks,3,25,2026-05-11,75
+Coffee,Beverage,6,150,2026-03-07,900
+Shampoo,Personal Care,7,180,2026-04-15,1260
+Biscuits,Snacks,8,25,2026-04-02,200
+Milk,Dairy,9,30,2026-02-02,270
+Milk,Dairy,8,30,2026-01-29,240
+Tea,Beverage,3,20,2026-06-27,60
+Rice,Grocery,7,50,2026-01-14,350
+Soap,Personal Care,9,35,2026-01-07,315
+Tea,Beverage,10,20,2026-05-20,200
+Salt,Grocery,1,25,2026-05-31,25
